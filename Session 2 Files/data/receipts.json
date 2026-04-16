@@ -1,0 +1,19 @@
+{
+    "Meijer": {
+        "fruit": [
+            "cherries",
+            "apples"
+        ],
+        "cleaning": [
+            "glass_cleaner",
+            "disinfectant"
+        ]
+    },
+    "Walmart": {
+        "vegetables": [
+            "broccoli",
+            "lettuce"
+        ],
+        "paper_towel": 2
+    }
+}
