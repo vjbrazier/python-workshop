@@ -20,7 +20,7 @@ for car in cars:
     id = car.get('_id').get('$oid')
     
     # Let's get the main details next (name, year, origin)
-    main_details.setdefault('Name', car.get('Name'))
+    main_details.setdefault('Name', car.get('Name')) # We can make use of setdefault and get simultaneously
     main_details.setdefault('Year', car.get('Year'))
     main_details.setdefault('Origin', car.get('Origin'))
 
@@ -49,5 +49,8 @@ new_cars_file = 'data\\new_cars.json'
 with open(new_cars_file, 'w') as f:
     json.dump(new_cars, f, indent=4)
 
-# Just as this file converted a list into nested dicts, you can do the reverse or more advanced stuff (like loading this data into memory as class object)
-# It will work with any size of file
+"""
+Just as this file converted a list into nested dicts, you can do the reverse 
+or more advanced stuff (like loading this data into memory as class objects)
+It will work with any size of file
+"""

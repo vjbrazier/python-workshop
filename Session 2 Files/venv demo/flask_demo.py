@@ -11,3 +11,5 @@ def index():
     return render_template('index.html', fruits=fruits)
 
 app.run(port=5000)
+
+# If you run this code deactivated, it will fail to recognize flask
