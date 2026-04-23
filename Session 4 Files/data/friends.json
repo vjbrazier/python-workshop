@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Jane Smith",
+    "age": 27,
+    "email": "jane.smith@email.com",
+    "address": {
+      "city": "Springfield",
+      "zip": "62704"
+    },
+    "hobbies": [
+      "painting",
+      "hiking",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Carlos Rivera",
+    "age": 35,
+    "email": "carlos.r@email.com",
+    "address": {
+      "city": "Miami",
+      "zip": "33101"
+    },
+    "hobbies": [
+      "soccer",
+      "cooking"
+    ]
+  },
+  {
+    "name": "Emily Chen",
+    "age": 22,
+    "email": "emily.chen@email.com",
+    "address": {
+      "city": "San Francisco",
+      "zip": "94102"
+    },
+    "hobbies": [
+      "photography",
+      "travel",
+      "gaming"
+    ]
+  },
+  {
+    "name": "Ahmed Hassan",
+    "age": 41,
+    "email": "ahmed.h@email.com",
+    "address": {
+      "city": "Chicago",
+      "zip": "60601"
+    },
+    "hobbies": [
+      "chess",
+      "reading",
+      "swimming"
+    ]
+  },
+  {
+    "name": "Sophia Müller",
+    "age": 29,
+    "email": "sophia.m@email.com",
+    "address": {
+      "city": "Austin",
+      "zip": "73301"
+    },
+    "hobbies": [
+      "cycling"
+    ]
+  },
+  {
+    "name": "Raj Patel",
+    "age": 33,
+    "email": "raj.patel@email.com",
+    "address": {
+      "city": "Seattle",
+      "zip": "98101"
+    },
+    "hobbies": [
+      "cricket",
+      "movies",
+      "coding"
+    ]
+  },
+  {
+    "name": "Olivia Johnson",
+    "age": 26,
+    "email": "olivia.j@email.com",
+    "address": {
+      "city": "Denver",
+      "zip": "80201"
+    },
+    "hobbies": [
+      "skiing",
+      "baking",
+      "running"
+    ]
+  },
+  {
+    "name": "Kenji Tanaka",
+    "age": 38,
+    "email": "kenji.t@email.com",
+    "address": {
+      "city": "Portland",
+      "zip": "97201"
+    },
+    "hobbies": [
+      "gardening",
+      "music"
+    ]
+  },
+  {
+    "name": "Maria Gonzalez",
+    "age": 45,
+    "email": "maria.g@email.com",
+    "address": {
+      "city": "Dallas",
+      "zip": "75201"
+    },
+    "hobbies": [
+      "dancing",
+      "writing",
+      "tennis",
+      "cooking"
+    ]
+  },
+  {
+    "name": "Liam O'Brien",
+    "age": 31,
+    "email": "liam.ob@email.com",
+    "address": {
+      "city": "Boston",
+      "zip": "02101"
+    },
+    "hobbies": [
+      "sailing",
+      "reading"
+    ]
+  }
+]
